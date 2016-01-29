@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/bengl/cli-profile#readme",
   "dependencies": {
+    "signal-exit": "^2.1.2",
     "v8-profiler": "^5.5.0"
   },
   "devDependencies": {
