@@ -1,0 +1,32 @@
+{
+  "name": "cli-profile",
+  "version": "1.0.0",
+  "description": "profiling tool for CLI tools",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bengl/cli-profile.git"
+  },
+  "keywords": [
+    "cli",
+    "profiling",
+    "profile",
+    "cpu"
+  ],
+  "author": "Bryan English <bryan@bryanenglish.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bengl/cli-profile/issues"
+  },
+  "homepage": "https://github.com/bengl/cli-profile#readme",
+  "dependencies": {
+    "v8-profiler": "^5.5.0"
+  },
+  "devDependencies": {
+    "pitesti": "^2.1.0"
+  }
+}
