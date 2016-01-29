@@ -1,6 +1,6 @@
 {
   "name": "cli-profile",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "profiling tool for CLI tools",
   "main": "index.js",
   "bin": "index.js",
